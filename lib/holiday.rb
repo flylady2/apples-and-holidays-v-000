@@ -68,7 +68,7 @@ def all_supplies_in_holidays(holiday_hash)
       puts "{holiday}:".capitalize + "supplies.join"
 
 
-      end
+
     end
   end
 
